@@ -3,18 +3,18 @@ Language: [RU](https://github.com/Kagimo1023/BTFS-Framework/blob/main/README.md)
 
 ## Contents  
 
-1. **Project**  
-   - Brief Description  
-   - History  
-   - Features  
-   - Drawbacks  
-   - Project Goals  
-   - Roadmap  
-   - Technical Details  
-   - FAQ  
+1. [**Project**](#project)  
+   - [Brief Description](#brief-description)
+   - [History](#history)
+   - [Features](#features)
+   - [Drawbacks](#drawbacks)
+   - [Project Goals](project-goals)
+   - [Roadmap](#roadmap)
+   - [Technical Details](#technical-details)
+   - [FAQ](#faq)
 
-2. **Links**  
-3. **Acknowledgements**  
+2. [**Links**](#links)
+3. [**Acknowledgements**](#acknowledgements)  
 
 ---
 
