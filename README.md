@@ -1,4 +1,5 @@
 # Better Than Fucking Script (BTFS)
+Language: [RU](https://github.com/Kagimo1023/BTFS-Framework/blob/main/README.md) | [EN](https://github.com/Kagimo1023/BTFS-Framework/blob/main/README_EN.md)
 
 ## Содержание
 1. [Проект](#проект)
